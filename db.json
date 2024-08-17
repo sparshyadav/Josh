@@ -1,0 +1,273 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "How To Make Flyer Design",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "skills": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ],
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723731066/Josh%20Assesment/Image_ajyuia.png"
+    },
+    {
+      "id": 2,
+      "title": "How To Make Flyer Design",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "skills": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS"
+      ],
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723731067/Josh%20Assesment/Image_1_xn1jk4.png"
+    },
+    {
+      "id": 3,
+      "title": "How To Make Flyer Design",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "skills": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ],
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723731067/Josh%20Assesment/Image_2_bmu0ii.png"
+    },
+    {
+      "id": 4,
+      "title": "How To Make Flyer Design",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "skills": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ],
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723731066/Josh%20Assesment/Image_3_yvxmrh.png"
+    },
+    {
+      "id": 5,
+      "title": "How To Make Flyer Design",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "skills": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ],
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723731066/Josh%20Assesment/Image_ajyuia.png"
+    },
+    {
+      "id": 6,
+      "title": "How To Make Flyer Design",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "skills": [
+        "Typescript",
+        "ReactJs",
+        "NextJs",
+        "CSS",
+        "HTML",
+        "MongoDB"
+      ],
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723731066/Josh%20Assesment/Image_4_hlugpg.png"
+    }
+  ],
+  "recommendations": [
+    {
+      "id": 1,
+      "title": "Great Quality!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "James Gouse",
+      "profession": "Graphic Designer",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_a9vxnk.png"
+    },
+    {
+      "id": 2,
+      "title": "Amazing Work!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "Tiana Phillips",
+      "profession": "Photographer",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_1_q43g3x.png"
+    },
+    {
+      "id": 3,
+      "title": "Great Quality!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "Talan Westervelt",
+      "profession": "Business Man",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_2_ehlblv.png"
+    },
+    {
+      "id": 1,
+      "title": "Great Quality!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "James Gouse",
+      "profession": "Graphic Designer",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_a9vxnk.png"
+    },
+    {
+      "id": 2,
+      "title": "Amazing Work!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "Tiana Phillips",
+      "profession": "Photographer",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_1_q43g3x.png"
+    },
+    {
+      "id": 3,
+      "title": "Great Quality!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "Talan Westervelt",
+      "profession": "Business Man",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_2_ehlblv.png"
+    },
+    {
+      "id": 1,
+      "title": "Great Quality!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "James Gouse",
+      "profession": "Graphic Designer",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_a9vxnk.png"
+    },
+    {
+      "id": 2,
+      "title": "Amazing Work!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "Tiana Phillips",
+      "profession": "Photographer",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_1_q43g3x.png"
+    },
+    {
+      "id": 3,
+      "title": "Great Quality!",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo ullam dolore delectus?",
+      "user": "Talan Westervelt",
+      "profession": "Business Man",
+      "imageURL": "https://res.cloudinary.com/dqxymgt3p/image/upload/v1723799724/Josh%20Assesment/Profile_2_ehlblv.png"
+    }
+  ],
+  "leaveMeYourInfo": [
+    {
+      "name": "Sparsh Yadav",
+      "email": "sparshyadavmrt@gmail.com",
+      "subject": "Testing Purpose",
+      "message": "This is just a sample text to check working of submit",
+      "id": 1
+    }
+  ], 
+  "skills": [
+    {
+        "title": "Front End Development",
+        "skill": [
+            {
+                "topic": "HTML",
+                "percentage": "90%"
+            },
+            {
+                "topic": "CSS",
+                "percentage": "85%"
+            },
+            {
+                "topic": "JS",
+                "percentage": "80%"
+            },
+            {
+                "topic": "PHP",
+                "percentage": "75%"
+            },
+            {
+                "topic": "WordPress",
+                "percentage": "85%"
+            }
+        ]
+    },
+    {
+        "title": "Languages",
+        "skill": [
+            {
+                "topic": "Hindi",
+                "percentage": "90%"
+            },
+            {
+                "topic": "English",
+                "percentage": "85%"
+            }
+        ]
+    },
+    {
+        "title": "Back End Development",
+        "skill": [
+            {
+                "topic": "NodeJS",
+                "percentage": "90%"
+            },
+            {
+                "topic": "SSR",
+                "percentage": "85%"
+            }
+        ]
+    },
+    {
+        "title": "Front End Development",
+        "skill": [
+            {
+                "topic": "HTML",
+                "percentage": "90%"
+            },
+            {
+                "topic": "CSS",
+                "percentage": "85%"
+            },
+            {
+                "topic": "JS",
+                "percentage": "80%"
+            },
+            {
+                "topic": "PHP",
+                "percentage": "75%"
+            },
+            {
+                "topic": "WordPress",
+                "percentage": "85%"
+            }
+        ]
+    },
+    {
+        "title": "Languages",
+        "skill": [
+            {
+                "topic": "Hindi",
+                "percentage": "90%"
+            },
+            {
+                "topic": "English",
+                "percentage": "85%"
+            }
+        ]
+    },
+    {
+        "title": "Back End Development",
+        "skill": [
+            {
+                "topic": "NodeJS",
+                "percentage": "90%"
+            },
+            {
+                "topic": "SSR",
+                "percentage": "85%"
+            }
+        ]
+    }
+  ]
+}
